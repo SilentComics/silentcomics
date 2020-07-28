@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+SILENT COMICS
+
+<iframe src="https://github.com/sponsors/SilentComics/card" title="Sponsor SilentComics" height="225" width="600" style="border: 0;"></iframe>
+
 <!--
 **SilentComics/silentcomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
