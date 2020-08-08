@@ -2,6 +2,7 @@
 
 SILENT COMICS
 
+[SILENT COMICS](https://silent-comics.com) is an experiment to prototype, design, and publish wordless comics.
 
 <!--
 **SilentComics/silentcomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
