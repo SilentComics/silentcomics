@@ -15,7 +15,7 @@ WordPress theme for webcomics: [Strip WP theme repo](https://github.com/SilentCo
 
 * [Silent Comics manifesto](https://silentcomics.com/manifesto/ "SILENT COMICS manifesto")
 * on Twitter: [@silentcomics](https://twitter.com/silentcomics "SILENT COMICS on Twitter")
-* on Tumblr: [silent-comics.tumblr.com](https://silent-comics.tumblr.com "SILENT COMICS on Tumblr")
+* on Instagram: [@silent_comics]([https://silent-comics.tumblr.com](https://www.instagram.com/silent_comics/) "SILENT COMICS on Instagram")
 
 QR <p><a href="http://eepurl.com/go58Rb"><img src="http://eepurl.com/go58Rb.qr.2"/></a></p>
 
